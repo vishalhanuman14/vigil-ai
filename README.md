@@ -11,6 +11,13 @@ QVigil is a privacy-first monitoring application that uses on-device AI models f
 - **Customizable Zones**: Define specific areas for monitoring
 - **Cross-Platform**: Built with Electron for Windows, macOS, and Linux support
 
+## Contributors
+- Vishnu Vardhan Reddy Bheem Reddy, vv.bheemreddy@gmail.com
+- Shivraj Singh Bhatti, 2shivrajbhatti@gmail.com
+- Vishal Hanuman, vishalhanuman14@gmail.com
+- Anjali Kanvinde, anjali.kanvinde@gmail.com
+- Kenneth Rodrigues, kenneth.nrk123@gmail.com
+
 ## 🏗️ Architecture
 
 ```
