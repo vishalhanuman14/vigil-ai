@@ -1,0 +1,25 @@
+<Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10"
+         xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10">
+  <Identity Name="com.example.onnxpython"
+            Publisher="CN=YourName"
+            Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>ONNX Python App</DisplayName>
+    <PublisherDisplayName>Your Name</PublisherDisplayName>
+    <Logo>logo.png</Logo>
+  </Properties>
+  <Resources>
+    <Resource Language="en-us" />
+  </Resources>
+  <Applications>
+    <Application Id="App"
+                 Executable="onnx-electron-app.exe"
+                 EntryPoint="Windows.FullTrustApplication">
+      <uap:VisualElements DisplayName="ONNX Python App"
+                          Description="Simple ONNX Inference"
+                          Square150x150Logo="logo.png"
+                          Square44x44Logo="logo.png"
+                          BackgroundColor="transparent" />
+    </Application>
+  </Applications>
+</Package>

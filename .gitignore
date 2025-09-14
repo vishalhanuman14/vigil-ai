@@ -1,0 +1,14 @@
+# Dependencies
+/node_modules
+
+# Vite
+.vite/
+/dist/
+
+# Env
+.env
+
+# Electron User Data
+/userData/
+
+x64venv/
